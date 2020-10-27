@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shared Preference</string>
+    <string name="id">Your Id</string>
+    <string name="name">Your Name</string>
+    <string name="save">Save</string>
+    <string name="view">View</string>
+    <string name="clear">Clear</string>
+    <string name="idIs">Your ID:</string>4
+    <string name="nameIs">Your Name:</string>
+</resources>
